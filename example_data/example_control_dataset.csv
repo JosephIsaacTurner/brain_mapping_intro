@@ -1,0 +1,11 @@
+roi_2mm,t
+example_data/control_lesions/sub-subhsubh005_space-2mm_lesionMask.nii.gz,example_data/control_networks/sub-subhsubh003_tome-GSP1000uMF_space-2mm_stat-t_conn.nii.gz
+example_data/control_lesions/sub-subhsubh004_space-2mm_lesionMask.nii.gz,example_data/control_networks/sub-subhsubh006_tome-GSP1000uMF_space-2mm_stat-t_conn.nii.gz
+example_data/control_lesions/sub-subhsubh001_space-2mm_lesionMask.nii.gz,example_data/control_networks/sub-subhsubh009_tome-GSP1000uMF_space-2mm_stat-t_conn.nii.gz
+example_data/control_lesions/sub-subhsubh002_space-2mm_lesionMask.nii.gz,example_data/control_networks/sub-subhsubh004_tome-GSP1000uMF_space-2mm_stat-t_conn.nii.gz
+example_data/control_lesions/sub-subhsubh007_space-2mm_lesionMask.nii.gz,example_data/control_networks/sub-subhsubh001_tome-GSP1000uMF_space-2mm_stat-t_conn.nii.gz
+example_data/control_lesions/sub-subhsubh008_space-2mm_lesionMask.nii.gz,example_data/control_networks/sub-subhsubh005_tome-GSP1000uMF_space-2mm_stat-t_conn.nii.gz
+example_data/control_lesions/sub-subhsubh010_space-2mm_lesionMask.nii.gz,example_data/control_networks/sub-subhsubh010_tome-GSP1000uMF_space-2mm_stat-t_conn.nii.gz
+example_data/control_lesions/sub-subhsubh006_space-2mm_lesionMask.nii.gz,example_data/control_networks/sub-subhsubh008_tome-GSP1000uMF_space-2mm_stat-t_conn.nii.gz
+example_data/control_lesions/sub-subhsubh003_space-2mm_lesionMask.nii.gz,example_data/control_networks/sub-subhsubh007_tome-GSP1000uMF_space-2mm_stat-t_conn.nii.gz
+example_data/control_lesions/sub-subhsubh009_space-2mm_lesionMask.nii.gz,example_data/control_networks/sub-subhsubh002_tome-GSP1000uMF_space-2mm_stat-t_conn.nii.gz

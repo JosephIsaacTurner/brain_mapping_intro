@@ -1,0 +1,11 @@
+roi_2mm,t
+example_data/amnesia_lesions/sub-26_file-16_roi.nii.gz,example_data/amnesia_networks/sub-25_file-14_tome-gsp1000mf_stat-t_conn.nii.gz
+example_data/amnesia_lesions/sub-27_file-18_roi.nii.gz,example_data/amnesia_networks/sub-20_file-1_tome-gsp1000mf_stat-t_conn.nii.gz
+example_data/amnesia_lesions/sub-29_file-22_roi.nii.gz,example_data/amnesia_networks/sub-21_file-6_tome-gsp1000mf_stat-t_conn.nii.gz
+example_data/amnesia_lesions/sub-22_file-8_roi.nii.gz,example_data/amnesia_networks/sub-22_file-8_tome-gsp1000mf_stat-t_conn.nii.gz
+example_data/amnesia_lesions/sub-24_file-12_roi.nii.gz,example_data/amnesia_networks/sub-26_file-16_tome-gsp1000mf_stat-t_conn.nii.gz
+example_data/amnesia_lesions/sub-25_file-14_roi.nii.gz,example_data/amnesia_networks/sub-28_file-20_tome-gsp1000mf_stat-t_conn.nii.gz
+example_data/amnesia_lesions/sub-20_file-1_roi.nii.gz,example_data/amnesia_networks/sub-27_file-18_tome-gsp1000mf_stat-t_conn.nii.gz
+example_data/amnesia_lesions/sub-28_file-20_roi.nii.gz,example_data/amnesia_networks/sub-29_file-22_tome-gsp1000mf_stat-t_conn.nii.gz
+example_data/amnesia_lesions/sub-23_file-10_roi.nii.gz,example_data/amnesia_networks/sub-24_file-12_tome-gsp1000mf_stat-t_conn.nii.gz
+example_data/amnesia_lesions/sub-21_file-6_roi.nii.gz,example_data/amnesia_networks/sub-23_file-10_tome-gsp1000mf_stat-t_conn.nii.gz
